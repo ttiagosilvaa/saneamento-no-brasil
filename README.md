@@ -51,3 +51,13 @@
 #### 5.570 municípios brasileiros são abastecidos por águas subterrâneas5;
 #### O subsolo do país recebe cerca de 4.329 Mm³ de esgotos por ano5;
 #### Cerca de 6 mil áreas de aquíferos e águas subterrâneas estão contaminadas no estado de São Paulo5.
+
+##### Fonte 1: Sistema Nacional de Informações sobre Saneamento - SNIS 2020
+##### Fonte 2: Perdas de Água Potável (2021, Ano Base 2019): Desafios Para a  Disponibilidade Hídrica a ao Avanço da Eficiência do Saneamento Básico”
+##### Fonte 3: Pobreza na Infância 2018 - UNICEF
+##### Fonte 4: O saneamento e a vida da mulher brasileira 2018 – Instituto Trata Brasil
+##### Fonte 5: Águas subterrâneas e saneamento básico 2019 – Instituto Trata Brasil
+##### Fonte 6: Ranking do Saneamento 2022– Instituto Trata Brasil
+##### Fonte7: Pesquisa Nacional de Saneamento Básico 2017 - IBGE
+
+##### Fonte Pesquisa: https://www.tratabrasil.org.br/pt/saneamento/principais-estatisticas/no-brasil/agua
